@@ -1,17 +1,10 @@
-"use client"
-
 import Background from '@/Components/Background'
-
 import React from 'react'
 
 const page = () => {
   return (
     <>
-    <div className='relative'>
     <Background/>
-
-    </div>
-    
     </>
   )
 }
