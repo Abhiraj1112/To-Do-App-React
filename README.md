@@ -1,3 +1,6 @@
+![Alt text for your image](https://i.imgur.com/your-image-url.gif)
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
