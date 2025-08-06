@@ -1,7 +1,32 @@
-![Alt text for your image](https://i.imgur.com/your-image-url.gif)
+Draggable To-Do List App
 
+A simple, clean, and intuitive To-Do List application built with React. This app allows you to manage your daily tasks with ease, featuring a modern user interface and a smooth drag-and-drop experience to reorder your priorities.
+
+Features
+
+Add Tasks: Quickly add new tasks to your list.
+
+Delete Tasks: Remove completed or unwanted tasks with a single click.
+
+Draggable Cards: Easily reorder tasks by dragging and dropping them to prioritize your work.
+
+Responsive Design: A clean layout that works seamlessly on both desktop and mobile devices.
+
+Local Storage: Your tasks are saved in your browser's local storage, so they persist even after you close the tab.
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+Tech Stack
+
+This project was built using the following technologies:
+
+React: A JavaScript library for building user interfaces.
+
+React Beautiful DnD: A library for creating beautiful and accessible drag-and-drop functionality.
+
+CSS3: For styling the application.
+
+JavaScript (ES6+)
 
 ## Getting Started
 
